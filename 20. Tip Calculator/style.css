@@ -1,0 +1,17 @@
+.main {
+ border: solid black;
+margin-top: 300px;
+margin-left: 500px;
+margin-right: 500px;
+/* text-align: center; */
+padding-left: 150px;
+}
+.table {
+    font-size: 20px;
+    text-align: center;
+border: solid black;
+background-color: orange;
+}
+.main{
+    background-color: lightblue;
+}

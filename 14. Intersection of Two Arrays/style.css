@@ -1,0 +1,26 @@
+ .main1{
+    display: flex;
+    justify-content: center;
+ }
+.input-2{
+    margin-left: 50px;
+}
+.input--3{
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+button{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 740px;
+    height: 30px;
+    width: 50px;
+}
